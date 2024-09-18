@@ -54,7 +54,7 @@ const Register = () => {
         <div className="container">
           <div className="header">
             <img src="/logo.jpg" alt="logo" />
-            <h3>Create a new account</h3>
+            <h3>Create a new account!</h3>
           </div>
           <form>
             <div className="inputTag">
